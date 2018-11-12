@@ -1,0 +1,1 @@
+# ==== Exercício 19: Sortear um entre 4 alunos para apagar o quadro lendo o nome deles e escrevendo o nome do escolhido.
