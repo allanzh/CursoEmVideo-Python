@@ -1,4 +1,4 @@
-# ==== Exercício 9: Exiba a tabuada de um numero escolhido
+# ==== Exercício 9: Exiba a tabuada de um numero escolhido.
 
 # lendo numero 
 numero = int(input("Digite um numero para ver sua tabuada: "))
