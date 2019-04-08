@@ -25,4 +25,3 @@ if n3 > n1 and n3 > n2:
         menor = n1
 
 print('O maior número é {} e o menor número é {}'.format(maior, menor))
-
